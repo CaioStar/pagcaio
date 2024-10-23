@@ -1,3 +1,1 @@
-bold{
-echo Caio
-}
+echo bold: Caio
