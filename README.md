@@ -19,9 +19,8 @@ Velocidade| 999 | 999
   *Azul: Atri qualquer coisa, desde materia, até energia  
   *Vermelho: O oposto do azul, repele tudo  
   *Vazio Roxo: Ao juntar o azul e vermelho ele cria uma massa imaginaria que destroui tudo que toca em nivel subatomico  
-
+  
 2.Energia Reversa:  
   *Usado para curar ferimentos, e o principal motivo de Gojo ser o mais forte  
 
-**Para mais informações, acesse:**
-'''https://pt.wikipedia.org/wiki/Satoru_Gojo'''
+[**Para mais informações, acesse:**]'''https://pt.wikipedia.org/wiki/Satoru_Gojo'''
